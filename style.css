@@ -36,3 +36,12 @@ grid-template-columns: 50% 50%;
  display: block;
 
  }
+
+ .botao_secundario{
+
+    background-color: transparent;
+    border: 2px solid var(--branco-principal);
+    border-radius: 16px;
+
+
+ }
