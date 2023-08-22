@@ -34,6 +34,7 @@ grid-template-columns: 50% 50%;
  padding: 1em;
  color: var(--branco-principal);
  display: block;
+ text-decoration: none;
 
  }
 
